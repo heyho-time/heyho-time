@@ -24,3 +24,6 @@
 <a href="https://github.com/heyho-time/harryql_api">Nomad - GraphQL<a><br>
 <a href="https://github.com/heyho-time/HeyhoTalk">Heyho Talk (Firebase)<a><br>
 <a href="https://github.com/heyho-time/storage/tree/main/storage/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98%EC%82%AC%EC%8B%A4%EA%B3%BC%EC%98%A4%ED%95%B4">[book] 객체지향의 사실과 오해<a><br>
+
+
+[![Hits](https://hits.sh/github.com/heyho-time.svg?view=today-total&style=flat-square&label=%E2%82%A9&color=white&labelColor=white)](https://hits.sh/github.com/heyho-time/)
