@@ -27,3 +27,4 @@
 
 
 [![Hits](https://hits.sh/github.com/heyho-time.svg?view=today-total&style=flat-square&label=%E2%82%A9&color=white&labelColor=white)](https://hits.sh/github.com/heyho-time/)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fheyho-time%2Fheyho-time&count_bg=%23FFFFFF&title_bg=%23FFFFFF&icon=&icon_color=%23FFFFFF&title=%E2%82%A9&edge_flat=false)](https://hits.seeyoufarm.com)
