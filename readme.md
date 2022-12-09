@@ -6,7 +6,8 @@
 <a href="https://github.com/heyho00/type_study">애플코딩 TypeScript<a><br>
 <a href="https://you-dont-know-js-study.vercel.app/">[book] You don't know JavaScript<a><br>
 <a href="https://github.com/heyho00/storage/tree/main/storage/coreJS">[book] Core JavaScript<a><br>
-
+<a href="https://github.com/heyho00/storage/tree/main/storage/deepdive">[book] Modern JS Deep Dive<a><br>
+  
 ### [ React ]
 
 <a href="https://github.com/heyho00/storage/tree/main/storage/context">Context<a><br>
