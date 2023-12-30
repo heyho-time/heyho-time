@@ -1,1 +1,5 @@
-중요한 건 꺾였는데도 그냥 하는 마음
+개발질을 멈추고
+
+고양이 전문 교감 미용사로 전직했습니다.
+
+instagram.com/golgol_tambourine_club/
