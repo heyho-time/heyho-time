@@ -2,4 +2,4 @@
 
 고양이 전문 교감 미용사로 전직했습니다.
 
-instagram.com/golgol_tambourine_club/
+[골골탬버린클럽 Instagram](instagram.com/golgol_tambourine_club)
